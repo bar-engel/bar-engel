@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=200&section=header&text=Bar%20Engel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Intelligence%20Veteran&descSize=15&descAlignY=58&descColor=c2c2c2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:0a0f1e&height=200&section=header&text=Bar%20Engel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%C2%B7%20Backend%20Developer%20%C2%B7%20Intelligence%20Veteran&descSize=15&descAlignY=58&descColor=c2c2c2" />
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=580&lines=Building+full-stack+apps+from+scratch;CS+Student+%40+College+of+Management;IDF+Intelligence+Veteran;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=580&lines=Building+backend+systems+from+scratch;CS+Student+%40+College+of+Management;IDF+Intelligence+Veteran;Always+learning%2C+always+shipping" />
 
 </div>
 
@@ -26,9 +26,9 @@
 
 Second-year Computer Science student with a strong academic record and hands-on experience operating mission-critical systems in classified military environments.
 
-Before writing code professionally, I spent two years as an Intelligence Analyst in the Israeli Air Force — working under pressure, coordinating across operational teams in real time, and building Python tools to automate analysis workflows. That background shaped how I approach software: precise, structured, and focused on what actually matters.
+Before writing code professionally, I spent two years as an Intelligence Analyst in the Israeli Air Force — working under pressure, coordinating across operational teams in real time, and building Python automation tools to streamline analysis workflows. That background shaped how I approach software: precise, structured, and focused on what actually works.
 
-Today I bring that same mindset to full-stack development. I am looking for a student developer position where I can keep building and growing.
+Today I build backend systems and REST APIs, and I'm looking for a student developer position where I can keep growing.
 
 <br>
 
@@ -45,11 +45,10 @@ Today I bring that same mindset to full-stack development. I am looking for a st
 ![C++](https://img.shields.io/badge/C++-0d1b3e?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1b3e?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-0d1b3e?style=for-the-badge&logo=express&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1b3e?style=for-the-badge&logo=springboot&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1b3e?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-0d1b3e?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1b3e?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-0d1b3e?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1b3e?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b3e?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0d1b3e?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-0d1b3e?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-0d1b3e?style=for-the-badge&logo=linux&logoColor=ffffff)
 
@@ -65,9 +64,10 @@ Today I bring that same mindset to full-stack development. I am looking for a st
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[Hobby — Social Network](https://github.com/bar-engel)** | Full-stack platform for sharing hobbies and interests. MVC architecture, user auth, interest-based groups with approval workflows, likes and posts. | `JavaScript` `Node.js` `Express` `MongoDB` |
-| **[Social Network UI](https://github.com/bar-engel)** | Responsive login and feed interface. Dynamic posts, likes, comments and search with no page reloads. | `HTML` `CSS` `Bootstrap` `JavaScript` |
-| **[Pub/Sub & Computational Graph](https://github.com/bar-engel)** | Publisher-subscriber messaging framework. Cycle detection on a directed graph, Singleton manager, custom HTTP server. | `Java` `OOP` `Graph Theory` |
+| **[SmartTask API](https://github.com/bar-engel/smarttask-api)** | Production-ready REST API for task management. JWT authentication, role-based access control, Docker deployment and Swagger documentation. | `Java 17` `Spring Boot` `PostgreSQL` `JWT` `Docker` |
+| **[Hobby — Social Network](https://github.com/bar-engel/social-media)** | Social platform for sharing hobbies and interests. MVC architecture, user authentication, interest-based groups with approval workflows. | `JavaScript` `Node.js` `Express` `MongoDB` |
+| **[Social Network UI](https://github.com/bar-engel)** | Responsive login and feed interface with dynamic posts, likes, comments and search. | `HTML` `CSS` `Bootstrap` `JavaScript` |
+| **[Pub/Sub & Computational Graph](https://github.com/bar-engel)** | Publisher-subscriber messaging framework with cycle detection on a directed graph and a custom HTTP server. | `Java` `OOP` `Graph Theory` |
 
 </div>
 
@@ -77,7 +77,7 @@ Today I bring that same mindset to full-stack development. I am looking for a st
 
 <div align="center">
 
-**Open to student developer positions — let's connect.**
+**Open to student backend developer positions — let's connect.**
 
 <br>
 
