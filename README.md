@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:132238,100:00C9A7&height=240&section=header&text=Bar%20Engel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineering&descAlignY=60&descSize=22"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:132238,100:00C9A7&height=260&section=header&text=Bar%20Engel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineering&descAlignY=60&descSize=22)
 
 <h3 align="center">
 Computer Science Student • Backend Engineering • Firmware & Systems
