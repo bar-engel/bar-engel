@@ -2,7 +2,7 @@
 
 # Bar Engel
 
-Second-year Computer Science student · College of Management · GPA 91 · Top 10 in cohort
+Second-year Computer Science student · College of Management · GPA 91 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barengel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bar-engel-portfolio.vercel.app)
