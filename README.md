@@ -13,7 +13,7 @@
 <br>
 
 ```
-College of Management  ·  Second Year  ·  GPA 91  ·  Top 10 in cohort
+College of Management  ·  Second Year  ·  GPA 91 
 ```
 
 ---
