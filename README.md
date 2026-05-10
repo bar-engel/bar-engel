@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0d1b3e?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:barengelwork@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1b3e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/bar-engel)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b3e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://bar-engel-portfolio.vercel.app)
 
 <br>
 
@@ -65,7 +67,7 @@ Today I bring that same mindset to full-stack development. I am looking for a st
 |:---|:---|:---|
 | **[Hobby — Social Network](https://github.com/bar-engel)** | Full-stack platform for sharing hobbies and interests. MVC architecture, user auth, interest-based groups with approval workflows, likes and posts. | `JavaScript` `Node.js` `Express` `MongoDB` |
 | **[Social Network UI](https://github.com/bar-engel)** | Responsive login and feed interface. Dynamic posts, likes, comments and search with no page reloads. | `HTML` `CSS` `Bootstrap` `JavaScript` |
-| **[Pub/Sub & Computational Graph](https://github.com/bar-engel)** | Publisher-subscriber messaging framework following SOLID principles. Cycle detection on a directed graph, Singleton manager, custom HTTP server. | `Java` `OOP` `SOLID` |
+| **[Pub/Sub & Computational Graph](https://github.com/bar-engel)** | Publisher-subscriber messaging framework. Cycle detection on a directed graph, Singleton manager, custom HTTP server. | `Java` `OOP` `Graph Theory` |
 
 </div>
 
@@ -79,6 +81,8 @@ Today I bring that same mindset to full-stack development. I am looking for a st
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0d1b3e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://bar-engel-portfolio.vercel.app)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0d1b3e?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/barengel)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send_an_Email-0d1b3e?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:barengelwork@gmail.com)
