@@ -1,6 +1,10 @@
-# Bar Engel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:132238,100:00C9A7&height=240&section=header&text=Bar%20Engel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineering&descAlignY=60&descSize=22"/>
+</p>
 
-### Backend & Systems Engineering
+<h3 align="center">
+Computer Science Student • Backend Engineering • Firmware & Systems
+</h3>
 
 ---
 
@@ -16,7 +20,14 @@ Currently focused on backend infrastructure, concurrency, operating systems, and
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,js,spring,nodejs,postgres,mongodb,redis,docker,git,linux,vscode)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,js)](https://skillicons.dev)
+
+### Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,redis)](https://skillicons.dev)
+
+### Systems & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,vscode)](https://skillicons.dev)
 
 ---
 
@@ -41,4 +52,4 @@ Currently focused on backend infrastructure, concurrency, operating systems, and
 
 📧 barengelwork@gmail.com
 
-💼 LinkedIn: linkedin.com/in/barengel
+💼 linkedin.com/in/barengel
